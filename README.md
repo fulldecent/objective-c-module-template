@@ -1,9 +1,11 @@
-[![Build Status](https://travis-ci.org/fulldecent/swift3-module-template.svg?branch=master)](https://travis-ci.org/fulldecent/swift3-module-template)
+[![Build Status](https://travis-ci.org/fulldecent/objective-c-module-template.svg?branch=master)](https://travis-ci.org/fulldecent/objective-c-module-template)
 
-# Swift 3 Module Template
-Use this template as a starting point for any Swift 3 module that you want other people to include in their projects.
+# Objective-C Module Template
+Use this template as a starting point for any Objective-C module that you want other people to include in their projects.
 
-**STATUS: This template is ready to work in production code.**
+**For Swift projects, see [swift3-module-template](https://github.com/fulldecent/swift3-module-template).**
+
+**STATUS: This recipe and template works for Swift, I need help to update this to work for Objective-C.**
 
 ![Swift 3 Module directory layout](https://cloud.githubusercontent.com/assets/382183/18574753/43dda33e-7b9e-11e6-9e91-cf91c4a03ccd.png)
 
